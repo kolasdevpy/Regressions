@@ -4,3 +4,8 @@
 11.___Multiple Linear Regression.ipynb
 13.___Polynomial Regression.ipynb
 14.___Non Linear Regression Analysis.ipynb
+.txt
+catboost_info/catboost_training.json
+catboost_info/learn/events.out.tfevents
+catboost_info/learn_error.tsv
+catboost_info/time_left.tsv
